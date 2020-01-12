@@ -7,7 +7,7 @@
 ## 辅助色
 
 * info: #4169E1 / #2782D7 / #10AEEF
-* success: #1AAD19
+* success: <color-box color="#1AAD19" tagName="i"></color-box>
 * warning: #FFBE00
 * error: #D84E43
 
