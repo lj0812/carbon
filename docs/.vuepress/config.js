@@ -20,6 +20,7 @@ module.exports = {
         collapsable: false,
         children: [
           '/components/icon',
+          '/components/swatch',
           '/components/button',
           '/components/card',
           '/components/badge',
