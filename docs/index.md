@@ -1,10 +1,10 @@
-<!-- ---
+---
 home: true
-heroImage: /hero.png
-heroText: Hero 标题
-tagline: Hero 副标题
+heroImage: /logo.png
+heroText: Carbon 碳元素
+tagline: 一套基于 Vue.js 的高质量 UI 组件库
 actionText: 快速上手 →
-actionLink: /zh/guide/
+actionLink: /guide/install
 features:
 - title: 简洁至上
   details: 以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。
@@ -13,4 +13,10 @@ features:
 - title: 高性能
   details: VuePress 为每个页面预渲染生成静态的 HTML，同时在页面被加载的时候，将作为 SPA 运行。
 footer: MIT Licensed | Copyright © 2020-present Herman
---- -->
+---
+
+<style lang="stylus">
+img.logo{
+  object-fit: contain;
+}
+</style>
