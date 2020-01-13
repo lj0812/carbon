@@ -2,4 +2,5 @@
 
 ## 实例
 
+<br />
 <carbon-swatch color="#008C8C" />

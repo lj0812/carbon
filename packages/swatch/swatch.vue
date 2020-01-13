@@ -4,7 +4,12 @@
     class="carbon-swatch"
   >
     <div class="carbon-color" :style="{backgroundColor: color}"></div>
-    <div class="carbon-color-text">{{color}}</div>
+    <div
+      class="carbon-color-text"
+      v-if="showText"
+    >
+      {{color}}
+    </div>
   </components>
 </template>
 
@@ -19,6 +24,10 @@ export default {
     tagName: {
       type: String,
       default: 'div'
+    },
+    showText: {
+      type: Boolean,
+      default: true
     }
   }
 }
