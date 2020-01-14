@@ -12,7 +12,8 @@ module.exports = {
         children: [
           '/guide/install',
           '/guide/color',
-          '/guide/font'
+          '/guide/font',
+          '/guide/emoji'
         ]
       },
       {
