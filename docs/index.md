@@ -15,8 +15,3 @@ features:
 footer: MIT Licensed | Copyright © 2020-present Herman
 ---
 
-<style lang="stylus">
-img.logo{
-  object-fit: contain;
-}
-</style>
