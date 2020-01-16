@@ -1,0 +1,33 @@
+@font-face {font-family: "carbon-icon";
+  src: url('iconfont.eot?t=1579009148017'); /* IE9 */
+  src: url('iconfont.eot?t=1579009148017#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAOkAAsAAAAACAwAAANYAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDIgqDHIJQATYCJAMUCwwABCAFhREHRBvsBsgOJaHAwABQAABgBNF+r7MHLz+EEgAskYyKikpBESog3crKSltLlv8vr/pBA66ZFXgigkra6VepBegbeF5fe777lf7Z9wY3CnDsA9BWlXULLWCCRMQlHcgd8AmdGJ+CeoOVep9uE+gwqi7muHvfAWBWZIsCcSejCmCeqZWTxNASmp2dBeITGLTSQvYJgI/t78d/aBxmkNQM2cqL291k6PjL8yPGzSjPMKLGgMPPCGcfGctAIa53zVe4PryM0xFN5q0DjSIkXs5ymZYQYcfS5qb/8JKsEA1k8V1gX48UfnlKnOBXBCfxK4qT+RXjvpB7KuhAGx4BHww4/QOTkKQ+l9fr9DnVmcz2FvvPBjYC//nKvWtRldt+/O5V4L803XMuuCmmcus2798bwAdn1JTX+M8kt6V0buamfXv88p4Z1fDawMXUe2awPufg2eOMYeahcwcADr4duHdDVXvcheRMZtAM2HDgzLHD7334/MFIaMqqVamtgdrPb4T62is7svZBVePs/xm1sgO7tVrta9/McPislsU3vMa8XVVXhlduqxg7p33AboeHL2tZfUOrj9tTfXp4+bbK/v3XOuHhI9xr0aLE8U8nErXi9RnXk7BqWi1LlV7Vx71a9Wr1dNN0BJPExGLat//0OOCF7BXpH/sDgLzNPgYg77GvAMjv2r9gEPzE5NpoV9t/ZhsP8K3L98mauqCPtCRgzs/hgC0l5mWaWsLykh1aqwkOwYSOXMNvSYYBH/hIh+F4QqfhESVtxlHWaQ4UuAkq3AENPEcdlvTf32nQNJwoFmDRSg2FEZdR0uMrykZ8BAX+wyoxbKCBFajDZbQ4sdNsLLV2IVigWEbiRJSRtKJSZFKrJBBRK9ab9+6H1bF5gbilQ2AQJnpG70aN6jfcifXARUz4rdHHqY0pVZBCtALqzvg+nM9rqES0LJZo/TSlpdYNGih7X1Rf0gpgdYTABBQmQ0QTIRkSTZFST6OsbhAQYiSvd5bdD6YaK+/UcF6DSR0EC/WYZYwGaaS+hhjoIS6iFe/4Gd04qsYoSoEoCE0B0v3WRiyfhzVIaX9aFiah6ktTBEtaa2B0UlBxfbnSwiNlOTVkp9ZgGY7hGQNjhPpAGKtjvpQXJlYTCB7HF/EECgA=') format('woff2'),
+  url('iconfont.woff?t=1579009148017') format('woff'),
+  url('iconfont.ttf?t=1579009148017') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1579009148017#carbon-icon') format('svg'); /* iOS 4.1- */
+}
+
+.carbon-icon {
+  font-family: "carbon-icon" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.carbon-icon-pause:before {
+  content: "\e611";
+}
+
+.carbon-icon-play:before {
+  content: "\e619";
+}
+
+.carbon-icon-prev:before {
+  content: "\e61a";
+}
+
+.carbon-icon-next:before {
+  content: "\e61b";
+}
+
