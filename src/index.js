@@ -1,9 +1,11 @@
+import Button from '../packages/button'
 import Icon from '../packages/icon'
 import Swatch from '../packages/swatch'
 
 const components = [
   Swatch,
-  Icon
+  Icon,
+  Button
 ]
 
 const install = Vue => {
